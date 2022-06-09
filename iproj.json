@@ -1,0 +1,15 @@
+{
+    "description": "Merlin08",
+    "version": "0.0.1",
+    "includePath": [
+        "M08_SRC/QPROTOSRC    "
+    ],
+    "repository": "git@github.com:AdrianAtArcad/M08Lab.git",
+    "objlib": "&L01",
+    "curlib": "*CRTDFT",
+    "extensions": {
+        "arcad": {
+            "libraryPrefix": "M08"
+        }
+    }
+}
